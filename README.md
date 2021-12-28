@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub page! I am the founder of [CloudSploit](https://cloudsploit.com) ([GitHub](https://github.com/aquasecurity/cloudsploit)), a cloud security company that was [acquired by Aqua Security](https://cloud7.news/security/aqua-security-expands-its-cspm-with-the-acquisition-of-cloudsploit) in 2019.
 
-I currently work as an Engineering Manager for Aqua Security, leading the development of our Cloud Security product.
+I currently work as an Engineering Manager of Cloud Security for Stripe.
 
 You can contact me on:
 - [Twitter](https://twitter.com/matthewdfuller)
